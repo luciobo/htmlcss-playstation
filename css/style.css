@@ -26,6 +26,12 @@ section {
 
 }
 
+.bg-img-jumbo-inf {
+    background-image: url(../imgs/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+
+}
+
 .my-button {
     border-radius: 20px;
 }
