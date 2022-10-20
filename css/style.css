@@ -47,12 +47,27 @@ section {
     border-radius: 20px;
 }
 
+.my-button-small {
+    border-radius: 20px;
+    padding: .2rem 1rem;
+    border: 0;
+}
+
 .my-button-small-gray {
     border-radius: 20px;
     padding: .2rem 1rem;
     background-color: #D9DADC;
     border: 0;
 }
+
+.my-button-small-gray-black {
+    color: black;
+    border-radius: 20px;
+    padding: .2rem 1rem;
+    background-color: #D9DADC;
+    border: 0;
+}
+
 
 .pad-jumbo {
     padding: 300px 0 32px
