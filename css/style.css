@@ -39,9 +39,19 @@ section {
     background-color: #BEBCBB;
 }
 
+.bg-ps-now {
+    background-color: #161C3B;
+}
 
 .my-button {
     border-radius: 20px;
+}
+
+.my-button-small-gray {
+    border-radius: 20px;
+    padding: .2rem 1rem;
+    background-color: #D9DADC;
+    border: 0;
 }
 
 .pad-jumbo {
@@ -52,7 +62,3 @@ section {
     font-size: .6rem;
 }
 
-.my-button-small {
-    border-radius: 20px;
-    padding: .2rem 1rem;
-}
