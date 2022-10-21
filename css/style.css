@@ -28,12 +28,14 @@ section {
 .bg-img-jumbo {
     background-image: url(../imgs/jumbo-bg.png);
     background-position: center;
+    background-size: cover;
 
 }
 
 .bg-img-jumbo-inf {
     background-image: url(../imgs/it-takes-two-hero-banner-desktop.jpg);
     background-position: center;
+    background-size: cover;
 }
 
 .bg-nuove-uscite {
