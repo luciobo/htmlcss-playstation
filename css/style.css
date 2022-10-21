@@ -4,6 +4,7 @@ body {
 
 a {
     text-decoration: none;
+    display: inline-block;
 }
 
 li {
@@ -33,6 +34,10 @@ section {
 .bg-img-jumbo-inf {
     background-image: url(../imgs/it-takes-two-hero-banner-desktop.jpg);
     background-position: center;
+}
+
+.bg-nuove-uscite {
+    background-color: #1F1F1F;
 }
 
 .bg-ps-plus {
