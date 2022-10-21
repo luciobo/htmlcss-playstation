@@ -88,7 +88,6 @@ section {
     font-size: .6rem;
 }
 
-.col-6.col-sm-4.col-lg-2:hover {
-
-    border: 3px solid blue;
+a:hover {
+    box-shadow: 7px 5px 10px 0px #00439C;
 }
