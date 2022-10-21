@@ -48,6 +48,10 @@ section {
     background-color: #161C3B;
 }
 
+.bg-ps-footer {
+    background-color: #00439C;
+}
+
 .my-button {
     border-radius: 20px;
 }
