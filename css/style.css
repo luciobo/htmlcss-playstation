@@ -88,6 +88,6 @@ section {
     font-size: .6rem;
 }
 
-a:hover {
-    box-shadow: 7px 5px 10px 0px #00439C;
+.img-fluid.rounded-3:hover {
+    box-shadow: 0px 0px 25px 10px #00439C;
 }
